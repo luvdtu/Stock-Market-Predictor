@@ -19,7 +19,7 @@ StockPredictor is a **machine learning-based stock market forecasting tool** tha
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/StockPredictor.git
+git clone https://github.com/luvdtu/Stock-Market-Predictor.git
 cd StockPredictor
 
 # Install dependencies
