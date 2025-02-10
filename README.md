@@ -1,4 +1,4 @@
-# StockMarketPredictor
+# Stock Market Predictor
 
 ## Overview
 Stock Market Predictor is a **machine learning-based stock market forecasting tool** that predicts stock prices using historical data. It utilizes **time-series analysis** and **deep learning models** to provide real-time insights through an interactive **Streamlit** dashboard.
